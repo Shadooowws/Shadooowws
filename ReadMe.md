@@ -1,4 +1,4 @@
-<img align='right' src="https://media1.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" width="400">
+<img align='right' src="https://media1.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" width="200">
 
 # Hey pretty guy ✌
 
