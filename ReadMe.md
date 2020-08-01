@@ -15,3 +15,8 @@ I'm a student developer from France 😄
 
 <!--START_SECTION:waka-->
 <!--START_SECTION:waka-->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shadooowws/count.svg" />
+</p>
