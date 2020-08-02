@@ -12,11 +12,3 @@ I'm a student developer from France 😄
 
 ### 🏆 Github Status
 ![Shadooowws's github stats](https://github-readme-stats.vercel.app/api?username=Shadooowws&show_icons=true&theme=nightowl&count_private=true&hide=stars,issuers,prs,contribs)
-
-<!--START_SECTION:waka-->
-<!--START_SECTION:waka-->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shadooowws/count.svg" />
-</p>
