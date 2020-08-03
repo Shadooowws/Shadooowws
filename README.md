@@ -11,5 +11,7 @@ I'm a student developer from France 😄
 - 🤖 [Nidorio](https://github.com/nidorio)
 - 👨‍💻 [GitHub Avatar CLI](https://github.com/Shadooowws/github-avatar-cli)
 
-### 🏆 Github Status
+### 🏆 Github Stats
 ![Shadooowws's github stats](https://github-readme-stats.vercel.app/api?username=Shadooowws&show_icons=true&theme=nightowl&count_private=true&hide=stars,issuers,prs,contribs)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadooowws&theme=nightowl)
