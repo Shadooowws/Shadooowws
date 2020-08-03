@@ -6,7 +6,7 @@ Sup! Here's Shadooowws ! 😎
 
 I'm a student developer from France 😄
 
-### 🚧 Currentyle working on
+### 🚧 Currently working on
 
 - 🤖 [Nidorio](https://github.com/nidorio)
 - 👨‍💻 [GitHub Avatar CLI](https://github.com/Shadooowws/github-avatar-cli)
