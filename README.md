@@ -8,9 +8,7 @@ I'm a student developer from France 😄
 
 ### 🚧 Currently working on
 
-- 🤖 [Nidorio](https://github.com/nidorio)
-- 👨‍💻 [GitHub Avatar CLI](https://github.com/Shadooowws/github-avatar-cli)
-- 📂 [Namy](https://github.com/Shadooowws/namy)
+- 🎵 [SpotiStaty](https://github.com/spotistaty)
 
 ### 🏆 Github Stats
 ![Shadooowws's github stats](https://github-readme-stats.vercel.app/api?username=Shadooowws&show_icons=true&theme=nightowl&count_private=true&hide=stars,issuers,prs,contribs)
