@@ -6,10 +6,6 @@ Sup! Here's Shadooowws ! 😎
 
 I'm a student developer from France 😄
 
-### 🚧 Currently working on
-
-- 🎵 [SpotiStaty](https://github.com/spotistaty)
-
 ### 🏆 Github Stats
 ![Shadooowws's github stats](https://github-readme-stats.vercel.app/api?username=Shadooowws&show_icons=true&theme=nightowl&count_private=true&hide=stars,issuers,prs,contribs)
 
